@@ -1,7 +1,0 @@
-def power (*x):
-    result = 0
-    for a in x:
-        result += a
-    print(result)
-
-power(10 , 10 , 10)
